@@ -1,0 +1,20 @@
+{
+  "name": "pdfsplitterocr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "openai": "^4.20.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-poppler": "^0.2.1"
+    
+  }
+}
